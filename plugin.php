@@ -14,7 +14,7 @@ Author URI: #
 */
 
 
-$apikey = "b178ed61-2d23-49fb-9dc9-4b05c72bb751";
+$apikey = "xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx751";
 ini_set("allow_url_fopen", 1);
 
 function cazarin_additon_styling_forrentcafe()
